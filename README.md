@@ -30,7 +30,7 @@ Acme Rockets is a simple starter project to get familiar with Tailwind CSS. It s
 
     ```sh
     git clone https://github.com/yourusername/acme-rockets.git
-    ```plaintext
+    ```
 
 2. Navigate to the project directory:
 
