@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Acme Rockets
 
 ## Project Overview
